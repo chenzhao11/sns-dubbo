@@ -1,0 +1,36 @@
+version: '2'
+services:
+  sns-mysql:
+    extends:
+      file: mysql.yml
+      service: sns-mysql
+    networks:
+      sns-net:
+        aliases:
+          - DB_SERVER
+        ipv4_address: 172.23.0.2
+
+  sns-redis:
+    extends:
+      file: redis.yml
+      service: sns-redis
+    networks:
+      sns-net:
+        aliases:
+          - REDIS_SERVER
+        ipv4_address: 172.23.0.3
+  sns-zookeeper:
+    extends:
+      file: zookeeper.yml
+      service: sns-zookeeper
+    networks:
+      sns-net:
+        aliases:
+          - ZOOKEEPER_SERVER
+        ipv4_address: 172.23.0.4
+networks:
+  sns-net:
+    ipam:
+      config:
+        - subnet: 172.23.0.0/16
+          gateway: 172.23.0.1

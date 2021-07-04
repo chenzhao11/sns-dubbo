@@ -1,0 +1,10 @@
+version: '2'
+services:
+  sns-service:
+    image: zzuzhaochen/sns_service:1.0
+    ports:
+      - 8081:20881
+    networks:
+      - sns-net
+networks:
+  sns-net:

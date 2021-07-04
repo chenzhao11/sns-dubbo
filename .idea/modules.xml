@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sns_common/sns_common.iml" filepath="$PROJECT_DIR$/sns_common/sns_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sns_consumer/sns_consumer.iml" filepath="$PROJECT_DIR$/sns_consumer/sns_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sns_dubbo.iml" filepath="$PROJECT_DIR$/sns_dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sns_service/sns_service.iml" filepath="$PROJECT_DIR$/sns_service/sns_service.iml" />
+    </modules>
+  </component>
+</project>

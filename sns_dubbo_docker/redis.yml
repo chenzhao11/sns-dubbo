@@ -1,0 +1,10 @@
+version: '2'
+services:
+  sns-redis:
+    image: bitnami/redis:4.0
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    volumes:
+      - ./data/redis/data:/bitnami
+    ports:
+      - 6379:6379

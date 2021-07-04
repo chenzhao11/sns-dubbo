@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1b40ea0-c643-4a03-bfeb-3def34fd35e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ulObLZo3xRkY8wZUEBRfkZxfyJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sns_consumer/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\测试文件夹\sns_dubbo\sns_consumer\src\main\resources" />
+      <recent name="F:\测试文件夹\sns_dubbo\sns_service\src\main\resources" />
+      <recent name="F:\测试文件夹\sns_dubbo\sns_dubbo_docker" />
+      <recent name="F:\测试文件夹\sns_dubbo\sns_service\src\main\java\com\jee\homework\sns" />
+      <recent name="F:\测试文件夹\sns_dubbo\sns_consumer\src\main\java\com\jee\homework\sns" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\测试文件夹\sns_dubbo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SnsServiceApplication (2)">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sns" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sns" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns.sns.SnsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sns_common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns.SnsCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sns_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns.SnsConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sns_service (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns_service.SnsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sns_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jee.homework.sns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns.SnsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sns_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jee.homework.sns_service.SnsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SnsApplication" />
+      <item itemvalue="Spring Boot.SnsConsumerApplication" />
+      <item itemvalue="Spring Boot.SnsCommonApplication" />
+      <item itemvalue="Spring Boot.SnsServiceApplication" />
+      <item itemvalue="Spring Boot.SnsServiceApplication (1)" />
+      <item itemvalue="Spring Boot.SnsServiceApplication (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SnsServiceApplication (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b40ea0-c643-4a03-bfeb-3def34fd35e4" name="Default Changelist" comment="" />
+      <created>1625236783426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625236783426</updated>
+      <workItem from="1625236785426" duration="415000" />
+      <workItem from="1625237411129" duration="769000" />
+      <workItem from="1625238226754" duration="2165000" />
+      <workItem from="1625240452871" duration="4167000" />
+      <workItem from="1625273619371" duration="5661000" />
+      <workItem from="1625279354160" duration="15475000" />
+      <workItem from="1625299297463" duration="1004000" />
+      <workItem from="1625300390134" duration="719000" />
+      <workItem from="1625301957468" duration="2698000" />
+      <workItem from="1625304710602" duration="5382000" />
+      <workItem from="1625319806934" duration="9885000" />
+      <workItem from="1625373303384" duration="3631000" />
+      <workItem from="1625380840050" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sns_consumer/src/main/java/com/jee/homework/sns/app/controller/AuthController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sns_consumer/src/main/java/com/jee/homework/sns/app/security/AuthService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sns_consumer/src/main/java/com/jee/homework/sns/app/security/JwtUserService.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.LazyInitializationException" package="org.hibernate" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

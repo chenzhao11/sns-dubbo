@@ -1,0 +1,10 @@
+version: '2'
+services:
+  sns-consumer:
+    image: zzuzhaochen/sns-consumer:1.0
+    ports:
+      - 8080:8080
+    networks:
+      - sns-net
+networks:
+  sns-net:
