@@ -6,6 +6,7 @@
 使用Spring Security + JWT来实现权限认证，使用Spring Data JPA 做持久层操作，使用redis做数据缓存，使用Dubbo和Zookeeper实现分布式架构，使用Docker实现应用快速部署，使用Jmeter做应用的压力测试。
 
 ## 使用
+集成开发环境IDEA，打包工具maven
 
 ​		应用以Docker容器的方式进行部署：
 

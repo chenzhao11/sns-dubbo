@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1b40ea0-c643-4a03-bfeb-3def34fd35e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmeter/SNS压力测试.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/jmeter/SNS压力测试.jmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sns_consumer/src/main/java/com/jee/homework/sns/common/handler/ResultPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/sns_consumer/src/main/java/com/jee/homework/sns/common/handler/ResultPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ib_buffer_pool" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/sns_dubbo_docker/data/mysql/data/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sns_service/src/main/java/com/jee/homework/sns/app/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/sns_service/src/main/java/com/jee/homework/sns/app/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +85,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.SnsServiceApplication (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="sns" />
       <method v="2">
@@ -190,6 +194,7 @@
       <workItem from="1625380840050" duration="49000" />
       <workItem from="1625397830778" duration="6370000" />
       <workItem from="1625452346262" duration="6000" />
+      <workItem from="1625494374018" duration="275000" />
     </task>
     <servers />
   </component>
