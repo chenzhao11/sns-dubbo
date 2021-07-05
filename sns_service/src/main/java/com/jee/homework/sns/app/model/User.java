@@ -70,7 +70,7 @@ public class User extends BaseEntity {
     private List<Post> likePosts;
 
     /**
-     * 用户创建的评论public List<Post> likePosts;
+     * 用户创建的评论
      */
     @OneToMany(mappedBy = "user",cascade = CascadeType.REMOVE)
     private List<Comment> comments;

@@ -21,13 +21,10 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 //要加上basePackage限制不然会影响swagger的使用
 @RestControllerAdvice(basePackages = "com.jee.homework.sns")
 public class ResultPackage implements ResponseBodyAdvice<Object> {
-
-
     @Override
     public boolean supports(MethodParameter methodParameter, Class<? extends HttpMessageConverter<?>> aClass) {
         return !(methodParameter.getParameterType().isAssignableFrom(ResultVo.class));
     }
-
     @Override
     public Object beforeBodyWrite(Object data, MethodParameter returnType, MediaType mediaType, Class<? extends HttpMessageConverter<?>> aClass, ServerHttpRequest request, ServerHttpResponse response) {
         if (returnType.getGenericParameterType().equals(String.class)) {

@@ -18,7 +18,4 @@
         <module>sns_consumer</module>
         <module>sns_service</module>
     </modules>
-
-
-
 </project>
